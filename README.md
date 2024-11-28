@@ -7,7 +7,6 @@ This repo is just a display of a course project for EECS 493 User Interface Deve
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, jQuery
-- **Backend**: None (single-page web application)
 
 ![game screen](./images/game.png)
 
